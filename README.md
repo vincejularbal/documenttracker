@@ -32,5 +32,5 @@ The **Document Route Tracking Mobile App** is designed to solve the problem of m
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vincejularbal/documentroutetracker.git
-   cd documentroutetracker
+   git clone https://github.com/vincejularbal/documenttracker.git
+   cd documenttracker
